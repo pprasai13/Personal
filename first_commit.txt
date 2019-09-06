@@ -4,4 +4,9 @@ This is second commit to the existing file
 
 This is third commint to the existing file
 
+<<<<<<< HEAD
 This code is being pushed to master  branch
+=======
+
+This is commit made to Development Branch	
+>>>>>>> e7c3ef9224f9118027db27c27b5723b3e384a7ad
