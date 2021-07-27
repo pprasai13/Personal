@@ -1,9 +1,0 @@
-This is a test file for first commit"
-
-This is second commit to the existing file
-
-This is third commint to the existing file
-
-This code is being pushed to master  branch
-
-This is commit made to Development Branch	
